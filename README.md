@@ -124,6 +124,36 @@ PUT    /api/patients/:id/status    admin - block/activate
 - A patient can't book in the past.
 - Once a doctor's or patient's appointment is completed, cancelled, or rejected, it can't be cancelled again or edited.
 
+## Screenshots
+
+![Screenshot 1](Screenshots/Screenshot1.png)
+
+![Screenshot 2](Screenshots/Screenshot2.png)
+
+![Screenshot 3](Screenshots/Screenshot3.png)
+
+![Screenshot 4](Screenshots/Screenshot4.png)
+
+![Screenshot 5](Screenshots/Screenshot5.png)
+
+![Screenshot 6](Screenshots/Screenshot6.png)
+
+![Screenshot 7](Screenshots/Screenshot7.png)
+
+![Screenshot 8](Screenshots/Screenshot8.png)
+
+![Screenshot 9](Screenshots/Screenshot9.png)
+
+![Screenshot 10](Screenshots/Screenshot10.png)
+
+![Screenshot 11](Screenshots/Screenshot11.png)
+
+![Screenshot 12](Screenshots/Screenshot12.png)
+
+![Screenshot 13](Screenshots/Screenshot13.png)
+
+![Screenshot 14](Screenshots/Screenshot14.png)
+
 ---
 
 Developed by Pankaj Saini
